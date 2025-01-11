@@ -2,9 +2,10 @@
 
  <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Shovan</h1>  
 <h3 align="center">A passionate Software Engineer from 🇧🇩</h3>  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csshovan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="csshovan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csshovan&show_icons=true&locale=en&theme=tokyonight" alt="csshovan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shvnsaha&show_icons=true&locale=en&theme=tokyonight" alt="csshovan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shvnsaha&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="csshovan" /></p>
 
 **About me**
 
@@ -29,8 +30,6 @@
  
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shvnsaha&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="shovan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shvnsaha&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 ![Shovan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shvnsaha&theme=react-dark)
 
