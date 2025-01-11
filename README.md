@@ -2,9 +2,9 @@
 
  <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Shovan</h1>  
 <h3 align="center">A passionate Software Engineer from 🇧🇩</h3>  
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=shvnsaha&theme=tokyonight&border=true" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csshovan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="csshovan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csshovan&show_icons=true&locale=en&theme=tokyonight" alt="csshovan" /></p>
 
 **About me**
 
