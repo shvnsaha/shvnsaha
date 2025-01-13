@@ -4,8 +4,7 @@
 <h3 align="center">A passionate Software Engineer from 🇧🇩</h3>  
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shvnsaha&show_icons=true&locale=en&theme=tokyonight" alt="csshovan" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shvnsaha&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="csshovan" /></p>
+
 
 **About me**
 
