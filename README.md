@@ -30,5 +30,5 @@
 
 
 
-![Shovan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shvnsaha&theme=react-light)
+![Shovan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shvnsaha&theme=light)
 
