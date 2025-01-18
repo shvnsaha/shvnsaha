@@ -5,12 +5,8 @@
 <h3 align="center">A passionate Software Engineer from 🇧🇩</h3>  
 
 <p align="center">
- ![](https://github-readme-streak-stats.herokuapp.com/?user=shvnsaha&theme=dark&hide_border=false)
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=shvnsaha&theme=dracula&border=true" />
 </p>
-
-
-
-
 
 **About me**
 
