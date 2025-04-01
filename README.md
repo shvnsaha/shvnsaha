@@ -10,7 +10,7 @@
 
 **About me**
 
-- 💼 FullStack Engineer at **E-commerce Web App**
+- 💼 FullStack Engineer
 
 - 📈 Built user friendly **Web App**
 
